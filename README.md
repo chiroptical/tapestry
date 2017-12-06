@@ -1,4 +1,4 @@
-TaPesTRY (Guided `T`our `P`ython `T`h`R`ough jup`Y`ter)
+TaPesTRY (Guided `T`our of `P`ython `T`h`R`ough jup`Y`ter)
 ---
 
 #### Purpose
